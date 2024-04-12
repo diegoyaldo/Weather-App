@@ -1,0 +1,15 @@
+Libraries used: 
+https://python-weather.readthedocs.io/en/latest/
+https://docs.python.org/dev/library/asyncio.html
+https://pillow.readthedocs.io/en/stable/
+https://geocoder.readthedocs.io/
+https://timezonefinder.readthedocs.io/en/latest/
+https://pypi.org/project/pytz/
+
+Necessary installs
+pip install python-weather
+pip install asyncio
+pip install pillow
+pip install geocoder
+pip install timezonefinder
+pip install pytz
