@@ -1,7 +1,7 @@
 Libraries used: 
 https://python-weather.readthedocs.io/en/latest/
 https://docs.python.org/dev/library/asyncio.html
-https://pillow.readthedocs.io/en/stable/
+https://pillow.readthedocs.io/en/stable/ (python version for this program depends on operating system due to pillow compatibility)
 https://geocoder.readthedocs.io/
 https://timezonefinder.readthedocs.io/en/latest/
 https://pypi.org/project/pytz/
